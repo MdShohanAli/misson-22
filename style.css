@@ -69,10 +69,59 @@ span{
 
 .mission{
     margin-top: 60px;
+    
 }
 .mission-head{
     text-align: center;
     font-family: Poppins;
     font-weight: bold;
     font-size: 48px;
+}
+.mission-part{
+    display: flex;
+    margin-left: 101px;
+    /* padding: 24px; */
+    width: 85%;
+    margin-bottom: 86px;
+
+    
+}
+.mission img{
+    width: 40%;
+}
+
+.mission h4{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+
+
+}
+.mission p{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 16px;
+    color: #424242; 
+}
+.misson-one{
+    /* Width : 360px;
+    height: 376px; */
+    margin-right: 24px;
+    padding: 15px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 26px;
+    
+}
+.mission-two{
+    margin-right: 24px;
+    padding: 15px; 
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 26px;  
+}
+.mission-there{
+    margin-right: 24px;
+    padding: 15px; 
+    background: #FFF4D6;
+    border-radius: 26px;
 }
