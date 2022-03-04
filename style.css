@@ -125,3 +125,55 @@ span{
     background: #FFF4D6;
     border-radius: 26px;
 }
+.develop{
+    display: flex;
+    width: 90%;
+    background:url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position:left;
+
+}
+.develop-half img{
+    Width :400px;
+    Height : 400px;
+
+    
+}
+.develop-half{
+    margin-left:110px;
+    width: 50%;
+    
+
+}
+.develop-half a{
+    background-color:#FF5959;
+    color: #FFF;
+    text-decoration: none;
+    padding: 12px;
+    border-radius: 5px; 
+    text-align:justify; 
+    font-family: poppins; 
+    
+    
+}
+.develop-half p{
+    font-family: poppins;
+    font-size: 18px;
+    font-weight: 400;
+    color: #3E3E3E;
+    text-align: justify;
+    
+}
+.develop-half h2{
+ font-family:poppins;
+ font-weight: 700;
+ font-size:36px;
+ line-height: 34px;
+}
+.develop-detail{
+    margin-left: -115px;
+}
+.develop-detail p{
+    margin-bottom: 27px;
+}
