@@ -80,7 +80,6 @@ span{
 .mission-part{
     display: flex;
     margin-left: 101px;
-    /* padding: 24px; */
     width: 85%;
     margin-bottom: 86px;
 
@@ -172,8 +171,34 @@ span{
  line-height: 34px;
 }
 .develop-detail{
-    margin-left: -115px;
+    margin-left: -82px;
 }
 .develop-detail p{
     margin-bottom: 27px;
+}
+.statistics{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.statistics-width{
+width: 100%;
+margin-left: 110px;
+text-align: center;
+margin-right: 83px;
+
+}
+#complite{
+    width: 90%;
+}
+.statistics img{
+    width: 50%;  
+    border-radius: 50px;
+    
+}
+.statistics-width h1{
+    font-weight: 700;
+    font-size: 27px;
+    font-family: poppines;
 }
