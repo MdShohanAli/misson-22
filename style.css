@@ -140,7 +140,7 @@ span{
     
 }
 .develop-half{
-    margin-left:110px;
+    margin-left:101px;
     width: 50%;
     
 
@@ -179,12 +179,12 @@ span{
 .statistics{
     display: flex;
     margin-top: 100px;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
 }
 
 .statistics-width{
 width: 100%;
-margin-left: 110px;
+margin-left: 68px;
 text-align: center;
 margin-right: 83px;
 
@@ -201,4 +201,53 @@ margin-right: 83px;
     font-weight: 700;
     font-size: 27px;
     font-family: poppines;
+}
+.app-detail{
+    display: flex;
+    margin-left: 69px;
+}
+.application h2 {
+    font-family: poppins;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+.app-width img{
+    width: 338px;
+    height: 542px;
+}
+.app-item{
+    margin-left: 163px;
+    margin-top: 95px;
+}
+.app-item h1{
+    font-family: Rubik;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+}
+.app-item p{
+    font-family: poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+.app-item a{
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    background: #FF5959;
+    color: #FFF;
+    text-align: center;
+    width: 150px;
+    height: 47px;
+    padding: 11px;
+    border-radius: 5px;
+  
+}
+.app-item{
+    width: 70%;
 }
