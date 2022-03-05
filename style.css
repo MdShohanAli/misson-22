@@ -251,3 +251,24 @@ margin-right: 83px;
 .app-item{
     width: 70%;
 }
+.footer{
+    margin-top: 122px;
+    background:#0B0D17;
+    padding: 25px;
+
+}
+.footer h3{
+    text-align: center;
+    color: #FFF;
+    font-family: Lobster;
+    font-weight: 400;
+    font-size: 36px; 
+    margin-top: 24px;
+ 
+}
+.footer p{
+    text-align: center;
+    font-family: Manrope;
+    color:#D9DBE1; ;
+    font-size: 14px;
+}
